@@ -1,9 +1,9 @@
 # OasisAppPolicy
-<This is a github website for the Oasis App Privacy Privacy and Support URL.
+<This is a github website for the Oasis App Privacy Privacy and Support URL.>
 
-You can use the [editor on GitHub](https://github.com/afareenj/OasisAppPolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<You can use the [editor on GitHub](https://github.com/afareenj/OasisAppPolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.>
+<Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.>
 
 ### Markdown
 
