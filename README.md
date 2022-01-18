@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-This is a github website for the Oasis App Privacy Policy and Support URL.
+<This is a github website for the Oasis App Privacy Policy and Support URL.>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
