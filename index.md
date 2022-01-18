@@ -1,6 +1,6 @@
 ## Oasis App Support and Privacy Policy
 
-This github page.
+This is a Github website with Privacy Policy and Support Information for the Oasis App.
 
 ### Privacy Policy
 
