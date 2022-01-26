@@ -15,6 +15,5 @@ We are located at the Lighthouse Studies at Peer Point in the Johns Hopkins Bloo
 Email: oasis.lighthouse.jhu@gmail.com  
 Address: 2213 McElderry St, 2nd Floor, Baltimore, MD 21205  
 Phone:  
-410-502-5368  
-1-800-967-5710  
+410-502-5368    
 Fax: 410-502-5385  
